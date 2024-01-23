@@ -1,6 +1,6 @@
 # Hey guys! <img src="https://raw.githubusercontent.com/ognjenmarcheta/ognjenmarcheta/main/wave.gif" width="30px">
 
-My name is Ognjen Marceta.
+My name is Ognjen Marceta. My friends call me Ogi.
 
 <img src="https://raw.githubusercontent.com/ognjenmarcheta/ognjenmarcheta/main/work_home.gif" width="200px">
 
