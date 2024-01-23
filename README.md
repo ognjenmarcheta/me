@@ -1,1 +1,31 @@
-# me
+# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
+
+My name is Ognjen Marceta.
+
+## &#x270d; About Me
+
+👨‍💻 Senior Software Engineer at Helu
+🕹️ Former Game Developer
+📷 🎥 Photography/Filmmaking Hobbyist.
+🕊️ Stoic
+
+Proactive software engineer with over 10 years in software engineering. My stoic mindset shapes my approach to software engineering, fostering resilience in the face of challenges and maintaining a calm, focused demeanor even in high-pressure situations.
+
+I've always been driven by technology and innovation. Started my adventure with the soldering iron and disassembled toys as a kid with a high interest in electricity and magnetism. Sega Mega Drive and PS1 console distracted me until Dial-up and Internet got my attention, then I discovered modding, programming, and whatnot. It never stopped since then. I'm learning new things on daily basis and I think I'm addicted to it. If there is only one thing I've realized during this time then it is that the following quote is true:
+
+"The more I learn, the more I realize how much I don't know"
+
+Let's connect! Whether it's to discuss tech trends, explore collaboration opportunities, or share our experiences, I look forward to connecting with like-minded professionals.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Interest-Blockchain-informational?style=flat&logo=bitcoin&logoColor=white&color=blue)
