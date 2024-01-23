@@ -1,4 +1,4 @@
-# Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
+# Hey guys! <img src="https://raw.githubusercontent.com/ognjenmarcheta/ognjenmarcheta/main/wave.gif" width="30px">
 
 My name is Ognjen Marceta.
 
