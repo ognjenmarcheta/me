@@ -31,6 +31,9 @@ Let's connect! Whether it's to discuss tech trends, explore collaboration opport
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Angular-blue?logo=angular&label=Code)
 ![](https://img.shields.io/badge/Vue-blue?logo=vuedotjs&label=Code)
+![](https://img.shields.io/badge/C%23-blue?logo=c%23&label=Code)
+
+![](https://img.shields.io/badge/Unity-blue?logo=unity&label=Tools)
 
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
