@@ -2,7 +2,7 @@
 
 My name is Ognjen Marceta.
 
-<img src="https://raw.githubusercontent.com/ognjenmarcheta/ognjenmarcheta/main/work_home.gif" width="200px">
+<img src="https://raw.githubusercontent.com/ognjenmarcheta/ognjenmarcheta/main/work_home.gif" width="600px">
 
 ## &#x270d; About Me
 
