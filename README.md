@@ -4,9 +4,9 @@ My name is Ognjen Marceta.
 
 ## &#x270d; About Me
 
-👨‍💻 Senior Software Engineer at Helu
-🕹️ Former Game Developer
-📷 🎥 Photography/Filmmaking Hobbyist.
+👨‍💻 Senior Software Engineer at Helu <br>
+🕹️ Former Game Developer <br>
+📷 🎥 Photography/Filmmaking Hobbyist. <br>
 🕊️ Stoic
 
 Proactive software engineer with over 10 years in software engineering. My stoic mindset shapes my approach to software engineering, fostering resilience in the face of challenges and maintaining a calm, focused demeanor even in high-pressure situations.
